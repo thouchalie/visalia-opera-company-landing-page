@@ -1,0 +1,63 @@
+/*GOLBLE STYLES*/
+
+/*Header, MAIN AND FOOTER BY MR. T - 1-26-16*/
+
+a {
+    
+}
+
+body {
+    margin:0px;
+}
+
+h1 {
+    
+}
+
+p {
+    
+}
+
+header {
+    background-color:#FF7900;
+    height:200px;
+}
+
+main {
+    width:90%;
+    margin:20px auto;
+}
+
+
+
+footer {
+    background:#FF7900;
+    height:300px;
+    padding:40px;
+}
+
+footer p {
+    color:#FFFFFF;
+    text-align:center;
+    font-size:25px;
+}
+
+/*=========BUTTON STYLES=========*/
+
+.button{
+    background-color:#000000;
+    padding:15px 23px;
+    border-radius:30px;
+    color:white;
+    text-decoration:none;
+}
+.button:hover {
+    background-color:#FF0033;
+}
+
+/*OTHER STYLES*/
+
+.imageCenter {
+    display:block;
+    margin:0px  auto 0px auto;
+}
